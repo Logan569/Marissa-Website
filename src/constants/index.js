@@ -70,7 +70,7 @@ export const services = [
     id: "0",
     title: "Traditional Bride",
     description: "This package is tailored to the bride who only needs hair and makeup performed once. This package is perfect for the bride who is not interested in a trial session or bridal portrait styling.",
-    price: "175.00",
+    price: "195.00",
     features: [
       "Professional Makeup",
       "Professional Hair",
@@ -80,7 +80,7 @@ export const services = [
     id: "1",
     title: "Classy Bride",
     description: "This package is designed for the bride seeking both wedding-day hair and makeup serves, along with the opportunity to experience a trial session or bridal portrait styling.",
-    price: "345.00",
+    price: "385.00",
     features: [
       "Wedding Day Professional Hair and Makeup",
       "Bridal or Trial Professional Hair and Makeup",
@@ -90,7 +90,7 @@ export const services = [
     id: "2",
     title: "Elegant Bride",
     description: "This package is perfect for the bride seeking the assurance of professional hair and makeup for her wedding day, along with a trial session and bridal portrait styling.",
-    price: "515.00",
+    price: "575.00",
     features: [
       "Wedding Day Professional Hair and Makeup",
       "Trial Professional Hair and Makeup",
